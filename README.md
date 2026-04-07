@@ -21,3 +21,5 @@
 
 - **Order Fulfillment:** More than 90% of orders are successfully delivered, while approximately 3% are returned or cancelled
 
+ https://github.com/ujjawalshah061-tech/vrinda-store-data-analysis/blob/main/Screenshot%202026-04-07%20234555.png
+
